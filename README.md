@@ -9,11 +9,13 @@ External Signal K sensors configured for a ESP8266 (Adafruit Feather HUZZAH with
 
 ## Diagram
 
+```shell
 Huzzah --- BME280
 GND    --- GND
 3V     --- VIN
 SCL    --- SCL
 SDA    --- SDA
+```
 
 ## Usage
 
